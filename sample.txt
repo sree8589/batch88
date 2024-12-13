@@ -1,1 +1,1 @@
-hello this is a git class
+hello this is a git class.
